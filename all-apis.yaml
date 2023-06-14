@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Location
 metadata:
-  name: openapi-example-apis
+  name: my-apis-in-one-file
   description: A collection of all Backstage example APIs
 spec:
   targets:
