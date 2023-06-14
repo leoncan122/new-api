@@ -9,10 +9,10 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: dir:.
   links:
-    - url: https://github.com/swagger-api/swagger-petstore
+    - url: https://github.com/stripe/openapi
       title: GitHub Repo
       icon: github
-    - url: https://github.com/swagger-api/swagger-petstore/blob/master/src/main/resources/openapi.yaml
+    - url: https://github.com/stripe/openapi/blob/master/openapi/spec3.yaml
       title: API Spec
       icon: code
 spec:
