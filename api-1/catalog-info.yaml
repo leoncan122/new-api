@@ -18,4 +18,4 @@ spec:
   lifecycle: experimental
   owner: team-c
   definition:
-    $yaml: https://github.com/stripe/openapi/blob/master/openapi/spec3.yaml
+    $text: https://github.com/stripe/openapi/blob/master/openapi/spec3.yaml
